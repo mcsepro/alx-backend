@@ -1,4 +1,4 @@
-# 0x04. Pagination
+# 0x00-Pagination
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Emmanuel Turlay, Staff Software Engineer at Cruise  
 :copyright: **[Holberton School](https://www.holbertonschool.com/)**  
@@ -28,5 +28,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 3. Deletion-resilient hypermedia pagination
 
 ## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+Martins Arem
